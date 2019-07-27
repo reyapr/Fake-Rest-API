@@ -8,10 +8,10 @@
     { "id": 6, "title": "Post 3-3", "userId": 3 }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "userId": 1, "postId": 1  },
-    { "id": 2, "body": "some comment 2", "userId": 2, "postId": 1 },
-    { "id": 1, "body": "some comment", "userId": 1, "postId": 5  },
-    { "id": 2, "body": "some comment 2", "userId": 2, "postId": 5 }
+    { "id": 1, "body": "some comment", "user": 1, "postId": 1, "user-name": "Nancy"  },
+    { "id": 2, "body": "some comment 2", "userId": 2, "postId": 1, "user-name": "Cissy" },
+    { "id": 3, "body": "some comment", "userId": 1, "postId": 5, "user-name": "Nancy"  },
+    { "id": 4, "body": "some comment 2", "userId": 2, "postId": 5, "user-name": "Cissy" }
   ],
   "albums": [
     {

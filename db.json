@@ -1,0 +1,142 @@
+{
+  "posts": [
+    { "id": 1, "title": "Post 1", "userId": 1 },
+    { "id": 2, "title": "Post 2" , "userId": 2},
+    { "id": 3, "title": "Post 3", "userId": 3 },
+    { "id": 4, "title": "Post 1-1", "userId": 1 },
+    { "id": 5, "title": "Post 2-2" , "userId": 2},
+    { "id": 6, "title": "Post 3-3", "userId": 3 }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "userId": 1, "postId": 1  },
+    { "id": 2, "body": "some comment 2", "userId": 2, "postId": 1 },
+    { "id": 1, "body": "some comment", "userId": 1, "postId": 5  },
+    { "id": 2, "body": "some comment 2", "userId": 2, "postId": 5 }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "name": "iseng-iseng",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "name": "selfie",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "name": "pilih no 3",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "name": "selfie",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "name": "Lebaran Bareng Keluarga Besar Gaes",
+      "userId": 3
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "name": "nancy-iseng-1",
+      "image": "http://bit.ly/2MlwzZc",
+      "userId": 1,
+      "albumId": 1
+    },
+    {
+      "id": 2,
+      "name": "nancy-iseng-1",
+      "image": "http://bit.ly/2ymRxhP",
+      "userId": 1,
+      "albumId": 1
+    },
+    {
+      "id": 3,
+      "name": "nancy-selfie-1",
+      "image": "http://bit.ly/2YaF3td",
+      "userId": 1,
+      "albumId": 2
+    },
+    {
+      "id": 4,
+      "name": "nancy-selfie-2",
+      "image": "http://bit.ly/30YNl4a",
+      "userId": 1,
+      "albumId": 2
+    },
+    {
+      "id": 5,
+      "name": "cissy1",
+      "image": "http://bit.ly/2MlwzZc",
+      "userId": 2,
+      "albumId": 3
+    },
+    {
+      "id": 6,
+      "name": "cissy2",
+      "image": "http://bit.ly/2ymRxhP",
+      "userId": 2,
+      "albumId": 3
+    },
+    {
+      "id": 7,
+      "name": "cissy1-selfie-1",
+      "image": "http://bit.ly/2YaF3td",
+      "userId": 2,
+      "albumId": 4
+    },
+    {
+      "id": 8,
+      "name": "cissy1-selfie-2",
+      "image": "http://bit.ly/30YNl4a",
+      "userId": 2,
+      "albumId": 4
+    },
+    {
+      "id": 9,
+      "name": "family-1",
+      "image": "http://bit.ly/2Ysdx9H",
+      "userId": 3,
+      "albumId": 5
+    },
+    {
+      "id": 10,
+      "name": "family-2",
+      "image": "http://bit.ly/2YwJ9Lq",
+      "userId": 3,
+      "albumId": 5
+    },
+    {
+      "id": 11,
+      "name": "family-3",
+      "image": "http://bit.ly/2ysFekt",
+      "userId": 3,
+      "albumId": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Nancy",
+      "username": "nancy",
+      "email": "nancy@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Cissy",
+      "username": "Cissy",
+      "email": "cissy@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Self",
+      "username": "Self",
+      "email": "self@gmail.com"
+    }
+  ]
+}

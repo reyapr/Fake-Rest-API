@@ -46,77 +46,88 @@
       "name": "nancy-iseng-1",
       "image": "http://bit.ly/2MlwzZc",
       "userId": 1,
-      "albumId": 1
+      "albumId": 1,
+      "detail": "candid"
     },
     {
       "id": 2,
-      "name": "nancy-iseng-1",
+      "name": "nancy-iseng-2",
       "image": "http://bit.ly/2ymRxhP",
       "userId": 1,
-      "albumId": 1
+      "albumId": 1,
+      "detail": "peace"
     },
     {
       "id": 3,
       "name": "nancy-selfie-1",
       "image": "http://bit.ly/2YaF3td",
       "userId": 1,
-      "albumId": 2
+      "albumId": 2,
+      "detail": "peace hehe"
     },
     {
       "id": 4,
       "name": "nancy-selfie-2",
       "image": "http://bit.ly/30YNl4a",
       "userId": 1,
-      "albumId": 2
+      "albumId": 2,
+      "detail": "Di belakang setiap pria sukses, selalu ada wanita yang sipit."
     },
     {
       "id": 5,
       "name": "cissy1",
-      "image": "http://bit.ly/2MlwzZc",
+      "image": "http://bit.ly/2YqNgJ7",
       "userId": 2,
-      "albumId": 3
+      "albumId": 3,
+      "detail": "Saat kamu mulai membenci dirimu, ingatlah bahwa kamu tak sendirian. Ada banyak orang yang membencimu juga di luar sana."
     },
     {
       "id": 6,
       "name": "cissy2",
-      "image": "http://bit.ly/2ymRxhP",
+      "image": "http://bit.ly/2JUNznj",
       "userId": 2,
-      "albumId": 3
+      "albumId": 3,
+      "detail": "Pilih Tronjal Tronjol lebih asyik"
     },
     {
       "id": 7,
       "name": "cissy1-selfie-1",
       "image": "http://bit.ly/2YaF3td",
       "userId": 2,
-      "albumId": 4
+      "albumId": 4,
+      "detail": "Kalau ada yang bertanya \"kapan nikah?\", bilang aja kapan itu untuk orang mati, bukan nikah."
     },
     {
       "id": 8,
       "name": "cissy1-selfie-2",
       "image": "http://bit.ly/30YNl4a",
       "userId": 2,
-      "albumId": 4
+      "albumId": 4,
+      "detail": "Beberapa kisah cinta tertoreh demikian indahnya sehingga sekadar mengenang pernah menjalaninya saja sudah cukup untuk membuatmu bahagia."
     },
     {
       "id": 9,
       "name": "family-1",
       "image": "http://bit.ly/2Ysdx9H",
       "userId": 3,
-      "albumId": 5
+      "albumId": 5,
+      "detail": "ehhh ayam ayam"
     },
     {
       "id": 10,
       "name": "family-2",
       "image": "http://bit.ly/2YwJ9Lq",
       "userId": 3,
-      "albumId": 5
+      "albumId": 5,
+      "detail": "ingat sahurr sebelum makan"
     },
     {
       "id": 11,
       "name": "family-3",
       "image": "http://bit.ly/2ysFekt",
       "userId": 3,
-      "albumId": 5
+      "albumId": 5,
+      "detail": "naik naik ke retaa apiii panjang... panjang sekali"
     }
   ],
   "users": [
